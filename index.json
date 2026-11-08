@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "M4FC",
+  "versions": [
+    {
+      "commit": "185dcd9c589eb25e2b5ebd3afa58c1492f55746f",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:58:25.249947+00:00"
+    }
+  ]
+}
