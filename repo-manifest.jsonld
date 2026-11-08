@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/UKPLab/M4FC",
+  "@type": "gh:Repository",
+  "gh:name": "M4FC",
+  "gh:owner": "UKPLab",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/UKPLab/M4FC/commit/185dcd9c589eb25e2b5ebd3afa58c1492f55746f",
+      "git:hexsha": "185dcd9c589eb25e2b5ebd3afa58c1492f55746f",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
